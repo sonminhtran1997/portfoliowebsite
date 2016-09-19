@@ -1,0 +1,16 @@
+#header li{
+	display: inline;
+	color: blue;
+	margin: 10px;
+	list-style-type: none;
+	float: right;
+}
+#trial{
+	display: block;
+	width: 600px;
+	margin: 0 auto;
+}
+#myForm{
+	float: right;
+
+}

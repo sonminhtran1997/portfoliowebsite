@@ -1,5 +1,34 @@
+body{
+	margin: 0px;
+}
 .main{
-	background-image: url(/images/background.png);
+	height: 700px;
+	background-image: url("../images/background");
 	background-position: center center;
 	background-repeat: no-repeat;
+	background-size: cover;
+}
+#container{
+	height: 700px;
+	width: 1000px;
+	margin: 0 auto;
+}
+.header{
+	margin-top: 0px;
+	margin-left: 5px;
+	width: 100%;
+}
+.logo{
+	float: left;
+	margin-top: 10px
+}
+nav{
+	margin-top: 26px;
+	float: right;
+}
+.navbar{
+	color: black;
+	font-size: 20px;
+	margin-left: 25px;
+	text-decoration: none;
 }
